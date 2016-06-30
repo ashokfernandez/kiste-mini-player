@@ -1,3 +1,4 @@
+/*global describe*/
 /*
   The index of specs.
 
@@ -8,6 +9,6 @@
 */
 
 
-describe("Sample Quick Start", function() {
-  require("./MyComponent.spec");
-});
+describe('Sample Quick Start', function () {
+  require('./MyComponent.spec')
+})
